@@ -28,7 +28,7 @@ ScoutBuddy helps in conducting a quick analysis of a website's security posture 
    ```bash
    git clone https://github.com/Oghosa-Divine-Osaigbovo/ScoutBuddy.git
 2. cd ScoutBuddy
-3.```bash
+3. ```bash
    pip install -r requirements.txt
 
 ## Usage
