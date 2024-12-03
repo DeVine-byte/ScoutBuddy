@@ -28,10 +28,11 @@ ScoutBuddy helps in conducting a quick analysis of a website's security posture 
    ```bash
    git clone https://github.com/Oghosa-Divine-Osaigbovo/ScoutBuddy.git
 2. cd ScoutBuddy
-3. pip install -r requirements.txt
+3.```bash
+   pip install -r requirements.txt
 
 ## Usage
-python scoutbuddy.py
+python scout.py
 
 ## License
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
